@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GServer": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\work\\GServerSolutions\\GServer"
+    }
+  }
+}
